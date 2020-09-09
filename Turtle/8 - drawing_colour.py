@@ -1,7 +1,7 @@
-# The turtle.bgcolor(color) command is used to set the background colour of the graphic window a specified
-# colour, the colour is passed as an argument
+# The turtle.pencolor(colour) command is used change the colour of the pen, the specified colour is passed to the
+# command as an argument
 
-import  turtle
+import turtle
 
 turtle.pencolor('purple')
 turtle.pensize(15)
